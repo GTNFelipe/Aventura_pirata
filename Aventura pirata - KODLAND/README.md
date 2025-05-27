@@ -2,8 +2,6 @@
 
 **Aventura Pirata** é um jogo de plataforma 2D desenvolvido com **Pygame Zero**. Nele, você controla um pirata destemido em busca de tesouros escondidos enquanto enfrenta inimigos e obstáculos em uma ilha misteriosa. O objetivo é coletar todos os tesouros sem ser derrotado pelos inimigos.
 
-![Capa do jogo (opcional)](link-da-imagem-se-tiver)
-
 ## 🎮 Como jogar
 
 - **Setas esquerda/direita**: mover o pirata
