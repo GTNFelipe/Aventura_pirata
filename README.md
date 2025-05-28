@@ -52,17 +52,7 @@
 
 ## 📁 Estrutura do projeto
 
-Aventura pirata - KODLAND/
-│
-├── roguelike.py # Código principal do jogo
-├── images/ # Pasta com sprites e animações
-│ ├── enemy_idle_left_0.png
-│ ├── enemy_idle_left_1.png
-│ └── ...
-├── sounds/ # Sons do jogo
-│ ├── music.wav
-│ └── coin.wav
-└── README.md # Este arquivo
+![image](https://github.com/user-attachments/assets/42ed2479-2c57-499b-9948-2ba16f8bc6a2)
 
 
 ---
